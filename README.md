@@ -13,8 +13,8 @@ These are the DNNs:
 
 Confusion matrices:
 
-![image](https://user-images.githubusercontent.com/53267157/126469543-11d230be-7173-4a06-910e-07635b44b53e.png)
 ![image](https://user-images.githubusercontent.com/53267157/126469558-d0f70ef6-117a-40ee-a356-cc4ba2b89d33.png)
+![image](https://user-images.githubusercontent.com/53267157/126469543-11d230be-7173-4a06-910e-07635b44b53e.png)
 
 XAI:
 
